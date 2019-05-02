@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "bin/bicycle/bicycle.dart",
+            "program": "bin/rectangle/rectangle.dart",
             "request": "launch",
             "type": "dart"
         }
