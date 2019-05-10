@@ -6,7 +6,7 @@
     "configurations": [
         {
             "name": "Dart",
-            "program": "bin/rectangle/rectangle.dart",
+            "program": "bin/dart_new_features/list_comprehention.dart",
             "request": "launch",
             "type": "dart"
         }

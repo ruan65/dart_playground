@@ -18,7 +18,7 @@ class Rectangle {
 
 main(List<String> args) {
   var rect = Rectangle(
-    origin: Point(10, 10),
+    // origin: Point(10, 10),
     width: 50,
     height: 25,
   );
